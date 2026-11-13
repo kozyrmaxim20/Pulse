@@ -2,7 +2,7 @@
 
 Мобильное приложение медицинского центра: пациент выбирает врача, находит свободное время и записывается на приём без звонка в регистратуру.
 
-<img width="198" height="425" alt="изображение" src="https://github.com/user-attachments/assets/fb4ed707-ff3a-4f57-9d41-c399ed0a68e6" />
+<img width="194" height="419" alt="изображение" src="https://github.com/user-attachments/assets/5834caf7-21d2-4acd-b19e-2a90bc183058" />
 
 ## Возможности
 - Онбординг, регистрация и вход
